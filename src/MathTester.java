@@ -4,6 +4,9 @@ public class MathTester {
         String firstWord;
         String secondWord;
 
+        firstWord = "dog";
+        secondWord = "house";
+
 
 
 
