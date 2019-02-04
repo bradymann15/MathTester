@@ -13,7 +13,8 @@ public class MathTester {
 
         System.out.println(firstWord+secondWord);
         System.out.println(firstWord+(firstNumber+secondNumber));
-
+        System.out.println("firstNumber + secondNumber is "+ (firstNumber+secondNumber));
+        
 
 
 
