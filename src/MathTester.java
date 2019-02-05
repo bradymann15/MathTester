@@ -16,7 +16,8 @@ public class MathTester {
         System.out.println("firstNumber + secondNumber is "+ (firstNumber+secondNumber));
         System.out.println("firstNumber - secondNumber is "+ (firstNumber-secondNumber));
         System.out.println("secondNumber / firstNumber is "+ (secondNumber/firstNumber));
-
+        System.out.println("firstNumber x secondNumber is "+ (firstNumber*secondNumber));
+        
 
 
     }
